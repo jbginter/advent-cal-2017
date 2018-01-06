@@ -1,0 +1,24 @@
+body {
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	text-align: center;
+	color: white;
+	font-family: arial, helvetica;
+}
+
+a {
+	display: block;
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: green;
+	text-decoration: none;
+}
+
+.module {
+	display: block;
+	margin: 2% 0;
+}
